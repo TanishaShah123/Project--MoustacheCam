@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.header {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+canva {
+    box-shadow: 50px, 50px, 80px, blueviolet;
+}
